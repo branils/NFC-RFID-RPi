@@ -100,7 +100,7 @@
 
 
 ## Installation of nxppy (Github)
-* **only if you are more comfortable with pyhton **
+* **only if you are more comfortable with pyhton**
 * follow instructions of [NXPPY Github Repo](https://github.com/svvitale/nxppy), which are:
 * Login at NXP and download **NFC Reader Library for Linux V4.010.03.001609**
 * again: read carefully - the filename of the download should be: **NFC-Reader-Library-4.010-2.deb**
