@@ -1,0 +1,40 @@
+
+
+
+//*************************
+//NFC CARD RESPONSE
+//*************************
+
+Found record /org/neard/nfc0/tag0/record0
+Record type: 	Text
+URI: 	
+Title: 	
+Action: 	
+Language: 	en
+Encoding: 	UTF-16
+
+Tag found
+ISO14443A ATQA: 	4400
+ISO14443A SAK: 	00
+ISO14443A UID: 	< the user id of your nfc card > 
+
+
+//*************************
+//RFID CARD RESPONSE
+//*************************
+
+Tag found
+ISO14443A ATQA: 	0400
+ISO14443A SAK: 	08
+ISO14443A UID: 	< the user id of your rfid card > 
+
+
+
+//*************************
+//RFID CHIP RESPONSE
+//*************************
+
+Tag found
+ISO14443A ATQA: 	0400
+ISO14443A SAK: 	08
+ISO14443A UID: 	< the user id of your rfid chip > 
